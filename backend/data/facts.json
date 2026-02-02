@@ -1,0 +1,32 @@
+{
+    "full_name": "David Leonardo Gonzalez Arellano",
+    "name": "Leo",
+    "current_role": "AI Product Manager",
+    "location": "Pittsburgh, PA",
+    "email": "darutto@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/leonardoga/",
+    "specialties": [
+      "AI",
+      "Material Science",
+      "Data Science", 
+      "Digital Content Creation"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "Materials Science PhD",
+        "institution": "Imperial College London",
+        "year": "2012"
+      },
+      {
+        "degree": "Materials Science MSc",
+        "institution": "University of Sheffield",
+        "year": "2008"
+      },
+      {
+        "degree": "Mechatronics Engineering, BSc",
+        "institution": "Tecnologico de Monterrey",
+        "year": "2004"
+      }
+    ]
+  }
